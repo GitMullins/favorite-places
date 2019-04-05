@@ -1,0 +1,58 @@
+{
+    "places": [
+    {
+       "cityName": "Budapest",
+        "cityCountry": "Hungary",
+        "cityImage": "https://i2.wp.com/welovebudapest.com/en/wp-content/uploads/sites/2/2014/08/7b7752427fd698b5f8ed43da8e07cd61.jpg?resize=1920%2C1080&ssl=1",
+        "favoriteRestaurant": "Rosenstein Vendéglő",
+        "favoriteBar": "Blue Fox The Bar",
+        "favoriteHotel": "Danubius Hotel Gellért",
+        "favoriteTouristAttraction": "Fisherman's Bastion"
+    },
+    {
+        "cityName": "Berlin",
+        "cityCountry": "Germany",
+        "cityImage": "https://images.unsplash.com/photo-1528728329032-2972f65dfb3f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
+        "favoriteRestaurant": "Skykitchen & Skybar",
+        "favoriteBar": "Hopfenreich",
+        "favoriteHotel": "Mercure Hotel",
+        "favoriteTouristAttraction": "Berlin Wall"
+    },
+    {
+        "cityName": "Kiev",
+        "cityCountry": "Ukraine",
+        "cityImage": "https://www.mywanderlust.pl/wp-content/uploads/2018/08/visit-kiev-ukraine-142.jpg",
+        "favoriteRestaurant": "The Last Barricade",
+        "favoriteBar": "Barman Dictat",
+        "favoriteHotel": "Hotel Khreschatyk Kiev",
+        "favoriteTouristAttraction": "The Motherland Monument"
+    },
+    {
+        "cityName": "Riga",
+        "cityCountry": "Latvia",
+        "cityImage": "http://www.traveller.com.au/content/dam/images/g/t/g/d/n/h/image.related.articleLeadwide.620x349.gtgdug.png/1501458698627.jpg",
+        "favoriteRestaurant": "Rozengrāls",
+        "favoriteBar": "Black Magic",
+        "favoriteHotel": "Grand Palace Hotel",
+        "favoriteTouristAttraction": "Vakarbulli Beach"
+    },
+    {
+        "cityName": "Vienna",
+        "cityCountry": "Austria",
+        "cityImage": "https://bluediamondevents.net/wp-content/uploads/2018/09/FOLKLORE-FESTIVAL-Vienna-1.jpg",
+        "favoriteRestaurant": "Der Ringsmuth",
+        "favoriteBar": "Los American Bar",
+        "favoriteHotel": "Der Dochboden",
+        "favoriteTouristAttraction": "Naschmarkt"
+    },
+    {
+        "cityName": "Athens",
+        "cityCountry": "Greece",
+        "cityImage": "https://thesavvybackpacker.com/wp-content/uploads/2015/10/costs-visit-athens-greece-1.jpg",
+        "favoriteRestaurant": "Mani Mani",
+        "favoriteBar": "Brettos",
+        "favoriteHotel": "Electra Palace Athens",
+        "favoriteTouristAttraction": "Parthenon"
+    }
+    ]
+}
