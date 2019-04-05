@@ -1,8 +1,8 @@
 {
     "places": [
     {
-       "cityName": "Budapest",
-        "cityCountry": "Hungary",
+        "cityName": "Budapest",
+        "countryName": "Hungary",
         "cityImage": "https://i2.wp.com/welovebudapest.com/en/wp-content/uploads/sites/2/2014/08/7b7752427fd698b5f8ed43da8e07cd61.jpg?resize=1920%2C1080&ssl=1",
         "favoriteRestaurant": "Rosenstein Vendéglő",
         "favoriteBar": "Blue Fox The Bar",
@@ -11,7 +11,7 @@
     },
     {
         "cityName": "Berlin",
-        "cityCountry": "Germany",
+        "countryName": "Germany",
         "cityImage": "https://images.unsplash.com/photo-1528728329032-2972f65dfb3f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
         "favoriteRestaurant": "Skykitchen & Skybar",
         "favoriteBar": "Hopfenreich",
@@ -20,7 +20,7 @@
     },
     {
         "cityName": "Kiev",
-        "cityCountry": "Ukraine",
+        "countryName": "Ukraine",
         "cityImage": "https://www.mywanderlust.pl/wp-content/uploads/2018/08/visit-kiev-ukraine-142.jpg",
         "favoriteRestaurant": "The Last Barricade",
         "favoriteBar": "Barman Dictat",
@@ -29,7 +29,7 @@
     },
     {
         "cityName": "Riga",
-        "cityCountry": "Latvia",
+        "countryName": "Latvia",
         "cityImage": "http://www.traveller.com.au/content/dam/images/g/t/g/d/n/h/image.related.articleLeadwide.620x349.gtgdug.png/1501458698627.jpg",
         "favoriteRestaurant": "Rozengrāls",
         "favoriteBar": "Black Magic",
@@ -38,7 +38,7 @@
     },
     {
         "cityName": "Vienna",
-        "cityCountry": "Austria",
+        "countryName": "Austria",
         "cityImage": "https://bluediamondevents.net/wp-content/uploads/2018/09/FOLKLORE-FESTIVAL-Vienna-1.jpg",
         "favoriteRestaurant": "Der Ringsmuth",
         "favoriteBar": "Los American Bar",
@@ -47,7 +47,7 @@
     },
     {
         "cityName": "Athens",
-        "cityCountry": "Greece",
+        "countryName": "Greece",
         "cityImage": "https://thesavvybackpacker.com/wp-content/uploads/2015/10/costs-visit-athens-greece-1.jpg",
         "favoriteRestaurant": "Mani Mani",
         "favoriteBar": "Brettos",
