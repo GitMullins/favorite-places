@@ -2,7 +2,7 @@
 Lists favorite places along with favorite things there
 
 ## Screenshots
-![image of places](https://raw.githubusercontent.com/GitMullins/pet-adoption/master/Screenshot.png)
+![image of places](https://raw.githubusercontent.com/GitMullins/favorite-places/master/screenshot.png)
 
 ## Getting Started
 ```
