@@ -4,7 +4,7 @@ const printToDom = (print) => {
     document.getElementById('placesDiv').innerHTML = print;
 };
 
-const domStringBuilder = (x) =>{
+const domStringBuilder = () =>{
     let domString = '';
     places.forEach((x) => {
         domString += `<div class="card col-3">`;
@@ -12,9 +12,9 @@ const domStringBuilder = (x) =>{
         domString += `<img src="${x.cityImage}" class="card-img-top" alt="...">`;
         domString += `<ul>`;
         domString += `<li>Favorite Restaurant: ${x.favoriteRestaurant}</li>`;
-        domString += `<li>Favorite Restaurant: ${x.favoriteBar}</li>`
-        domString += `<li>Favorite Restaurant: ${x.favoriteHotel}</li>`
-        domString += `<li>Favorite Restaurant: ${x.favoriteTouristAttraction}</li>`
+        domString += `<li>Favorite Restaurant: ${x.favoriteBar}</li>`;
+        domString += `<li>Favorite Restaurant: ${x.favoriteHotel}</li>`;
+        domString += `<li>Favorite Restaurant: ${x.favoriteTouristAttraction}</li>`;
         domString += `</ul>`;
         domString += `</div>;`;
     })
@@ -35,7 +35,7 @@ const getPlacesData = () => {
     const myRequest = new XMLHttpRequest();
     myRequest.addEventListener('load', executeThisCodeAfterFileLoads);
     myRequest.addEventListener('error', executeThisCodeIfXHRFails);
-    myRequest.open('GET', './db/places.json')
+    myRequest.open('GET', './db/places.json');
     myRequest.send();
 };
 
